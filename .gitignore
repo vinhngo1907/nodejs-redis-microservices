@@ -1,0 +1,5 @@
+.env
+package-lock.json
+node_modules
+dump.rdb
+npm-debug.log
