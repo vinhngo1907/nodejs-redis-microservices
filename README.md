@@ -16,6 +16,4 @@ Git: [backend project nodejs](https://github.com/vinhngo1907)
 > Step by step run: init.redis.js->order.js->payment.js->sendEmail.js
 ```
 
-# Try
-
-[localhost](http://localhost:3051)
+# Try to rest or test api with file request.http
